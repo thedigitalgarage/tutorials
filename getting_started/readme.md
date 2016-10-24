@@ -1,3 +1,4 @@
+# Getting Started on Digital Garage
 ###Overview
 This guide demonstrates how to get a simple project up and running on the Digital Garage. It is a repost from our documentation site that can be found here: Digital Garage Getting Started [Basic Walkthrough](http://docs.thedigitalgarage.io/getting_started/basic_walkthrough.html) 
 
